@@ -18,7 +18,7 @@ do
 
 source_array = ["1", "2", "3", "4", "5", "6"]
 #expecting(source_array).to.map
-source_array.map
+source_array.map_to_negativize
 expecting 
 ]
 end
